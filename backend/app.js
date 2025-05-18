@@ -2,7 +2,7 @@
  
  function App() {
    return (
-     <div>Hello from github</div>
+     <div>Hello from github nice try</div>
    )
  }
  
