@@ -2,7 +2,7 @@
  
  function App() {
    return (
-     <div>Hello from github nice try this from ibra now try this works</div>
+     <div>hello again thankx</div>
    )
  }
  
