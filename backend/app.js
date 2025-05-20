@@ -2,7 +2,7 @@
  
  function App() {
    return (
-     <div>now try to make it more times for more knowldge</div>
+     <div>Hello willy</div>
    )
  }
  
